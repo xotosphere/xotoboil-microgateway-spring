@@ -6,7 +6,7 @@ services:
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=admin
-      - POSTGRES_DB=microboil
+      - POSTGRES_DB=xotoboil
   eureka:
     build: ./eurekaserver
     container_name: eureka

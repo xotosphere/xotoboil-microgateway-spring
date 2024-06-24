@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.microboil</groupId>
+    <groupId>com.xotoboil</groupId>
     <artifactId>userservice</artifactId>
     <version>1.0.0</version>
     <name>userservice</name>
